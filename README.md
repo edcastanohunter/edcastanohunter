@@ -2,12 +2,12 @@
 
 ## About Me 🚀
 
-I'm a passionate **[Sofware development]** with experience in **[C#, Javascript]**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
+I'm a passionate **Sofware development** with experience in **C#, Javascript**. I love tackling complex problems, learning new skills, and collaborating with diverse teams to create innovative solutions.
 
-- 🌱 Currently learning: **[]**
-- 🌍 Languages: **[Spanish, English]**
-- 📫 How to reach me: **[dameliatus@hotmail.com]**
-- ⚡ Fun fact: **[I am a father, a husband, an a petlover]**
+- 🌱 Currently learning: **uhmm...**
+- 🌍 Languages: **Spanish, English**
+- 📫 How to reach me: **dameliatus@hotmail.com**
+- ⚡ Fun fact: **I am a father, a husband, an a petlover**
 
 ## My Skills 🧠
 
