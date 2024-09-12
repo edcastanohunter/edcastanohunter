@@ -1,4 +1,4 @@
-# Hi there, I'm [Ed Castaño]! 👋
+# Hi there, I'm **Ed Castaño**! 👋
 
 ## About Me 🚀
 
