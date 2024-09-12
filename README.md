@@ -36,6 +36,6 @@ I'm a passionate **[Sofware development]** with experience in **[C#, Javascript]
 
 ## Get in Touch 📬
 
-- **[LinkedIn]**([https://www.linkedin.com/in/edcastanohunter/])
+- [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=fff)](https://www.linkedin.com/in/edcastanohunter/)
 
 
